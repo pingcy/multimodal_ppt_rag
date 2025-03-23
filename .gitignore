@@ -13,3 +13,4 @@ data/chroma_data/
 data_images/
 storage_nodes/
 *.pkl
+commit.sh
