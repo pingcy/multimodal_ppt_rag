@@ -9,4 +9,10 @@
 
 ## 使用方法
 
-使用app.ipynb自行测试
+app.ipynb: 测试notebook
+
+doubao.py: 豆包多模态API封装
+
+有问题请联系公众号：
+
+![1742723297159](image/README/1742723297159.jpg)
