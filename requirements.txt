@@ -1,0 +1,27 @@
+# Base dependencies
+openai>=1.0.0
+python-dotenv>=0.19.0
+nest-asyncio>=1.5.6
+
+# LlamaIndex related
+llama-index-core>=0.10.0
+llama-index-llms-openai>=0.1.0
+llama-index-embeddings-openai>=0.1.0
+llama-index-llms-langchain>=0.1.0
+llama-index-embeddings-dashscope>=0.1.0
+llama-index-vector-stores-chroma>=0.1.0
+llama-cloud-services>=0.1.0
+
+# LangChain related
+langchain-openai>=0.0.2
+
+# Vector store
+chromadb>=0.4.22
+
+# Data processing
+pandas>=2.0.0
+openpyxl>=3.1.0  # for Excel support
+
+# Utils
+markitdown>=0.1.0  # for PDF processing
+Pillow>=10.0.0    # for image handling
